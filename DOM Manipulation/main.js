@@ -15,3 +15,12 @@
 
 // const p2 = document.querySelector('.p2');
 
+// const li2 = document.getElementsByTagName('li') [1];
+
+// li2.setAttribute('name', 'Rhepiw');
+
+// const p1 = document.querySelector('.p1');
+
+
+
+
